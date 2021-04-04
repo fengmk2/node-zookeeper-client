@@ -22,7 +22,7 @@
     "node": ">=0.6.0"
   },
   "dependencies": {
-    "underscore": "~1.4.4",
+    "underscore": "~1.12.1",
     "async": "~0.2.7"
   },
   "licenses": [
